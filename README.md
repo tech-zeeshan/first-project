@@ -1,4 +1,4 @@
 # first-project
 this is my first github repositry
 <br>
-author: zeeshan
+author: zeeshan ahmad
